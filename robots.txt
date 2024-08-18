@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://harkpity.github.io/sitemap.html.gz
+Sitemap: https://harkpity.github.io/app/sitemap.html.gz
+Sitemap: https://harkpity.github.io/assets/sitemap.html.gz
+Sitemap: https://harkpity.github.io/css/sitemap.html.gz
+Sitemap: https://harkpity.github.io/includes/sitemap.html.gz
+Sitemap: https://harkpity.github.io/item/sitemap.html.gz
+Sitemap: https://harkpity.github.io/src/sitemap.html.gz
